@@ -1,0 +1,22 @@
+{
+  "name": "invites",
+  "version": "1.0.0",
+  "description": "Wedding invite sending/emailing app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lchambers6/invites.git"
+  },
+  "author": "Luke Chambers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lchambers6/invites/issues"
+  },
+  "homepage": "https://github.com/lchambers6/invites#readme",
+  "dependencies": {
+    "nodemailer": "^6.1.1"
+  }
+}
